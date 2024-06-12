@@ -1,4 +1,7 @@
 # dice-game
+
+![image](https://github.com/khusikumari0603/dice-game/assets/172460761/68cef605-4f05-41ce-a3b2-f73a6cb24dc8)
+
 The Dice Android Game or also a game of Pig is a jeopardy dice game where the main aim of the player is to score 100 points by themselves. Each player’s turn in the game consists of repeatedly rolling a die. After each roll, the player is faced with two options: whether to roll again, or hold (decline to roll again).
 
 Game rules Dice Game In Android
